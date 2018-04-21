@@ -1,0 +1,4 @@
+START
+Loop Begin
+Getting char
+'', '[', 'C', '', '[', 'B', '', '[', 'D', '', 

@@ -1,0 +1,18 @@
+RULES OF THE HUNGER
+-------------------
+1. You are the ampersand: &. It is like a caveman or something. It is hungry
+
+2. You must move via the arrow keys toward your goal, the "2"
+
+3. You have a limited amount of moves, or "food", to get to the food. Run out of food and you
+"starve" aka lose.
+
+4. The goal moves everytime you move. You must outsmart the goal. You can see
+the path that the goal will take, it is shown via the "+"s that lead the "2"
+(if there is no path for the "2", it will stop moving)
+
+5. You cannot move through "X"s. Those are cave walls or trees or something.
+Caveman theme. 
+
+6. You must move; there is no way to be stationary and let the "2" move. (You
+can just move back and forth, which does the same thing.)
